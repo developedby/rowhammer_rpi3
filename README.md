@@ -13,7 +13,7 @@ This code is based on [https://github.com/0x5ec1ab/rowhammer_armv8], trimmed dow
 ## Authors
 * [Nicolas Abril](https://github.com/developedby)
 * [Matteo Isoldi](https://github.com/bOhYee)
-* []()
-* []()
+* [Massimiliano Di Todaro](https://github.com/mditodaro)
+* [Diego Porto](https://github.com/akhre)
 
 Original code from https://github.com/0x5ec1ab/rowhammer_armv8
