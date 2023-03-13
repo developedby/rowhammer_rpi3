@@ -17,3 +17,5 @@ This code is based on [https://github.com/0x5ec1ab/rowhammer_armv8], trimmed dow
 * [Diego Porto](https://github.com/akhre)
 
 Original code from https://github.com/0x5ec1ab/rowhammer_armv8
+
+This material was originally developed as part of an assignment of the Operating systems for embedded systems course delivered at Politecnico di Torino by Prof. Stefano Di Carlo.
